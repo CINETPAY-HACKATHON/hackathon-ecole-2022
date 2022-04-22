@@ -1,3 +1,5 @@
+![Banner](https://i.imgur.com/QIS4blx.png)
+
 # CinetPay Hackathon Ecole 2022
 
 Template du projet e-commerce light, pour le Hackathon Ecole 2022.
